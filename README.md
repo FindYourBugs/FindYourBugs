@@ -1,7 +1,7 @@
 <div align="center">
 
 # Shrikant Shinde
-### Penetration Tester · Web & Android VAPT · Active Directory · SIEM/Forensics
+### Offensive Security
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F6FED&center=true&vCenter=true&width=600&lines=Breaking+web+apps+and+Android+apps+for+a+living;Full+AD+kill-chains%2C+not+just+checkbox+scans;Documenting+every+finding+like+someone+has+to+fix+it)](https://git.io/typing-svg)
 
