@@ -30,7 +30,7 @@ jobs:
             echo '|---|---|---|'
             jq -c '.[]' repos.json | while read -r row; do
               name=$(echo "$row" | jq -r '.name')
-              desc=$(echo "$row" | jq -r '.description // "—"')
+              desc=$(echo "$row" | jq -r 'if (.description // "" | length) > 0 then .description else "—" end')
               stars=$(echo "$row" | jq -r '.stargazerCount')
               echo "| [$name](https://github.com/FindYourBugs/$name) | $desc | $stars |"
             done
