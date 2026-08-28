@@ -48,6 +48,14 @@ Currently building toward freelance VAPT work and bug bounty, on top of hands-on
 <!-- WRITEUPS:START -->
 | Writeup | Description | ★ |
 |---|---|---|
+| [paperwork-writeup](https://github.com/FindYourBugs/paperwork-writeup) | — | 0 |
+| [odyssey-writeup](https://github.com/FindYourBugs/odyssey-writeup) | — | 0 |
+| [nimbus-writeup](https://github.com/FindYourBugs/nimbus-writeup) | — | 0 |
+| [ghostlink-writeup](https://github.com/FindYourBugs/ghostlink-writeup) | — | 0 |
+| [darkzeroreturns-writeup](https://github.com/FindYourBugs/darkzeroreturns-writeup) | — | 0 |
+| [cobblestone-writeup](https://github.com/FindYourBugs/cobblestone-writeup) | — | 0 |
+| [bedside-writeup](https://github.com/FindYourBugs/bedside-writeup) | — | 0 |
+| [abducted-writeup](https://github.com/FindYourBugs/abducted-writeup) | — | 0 |
 | [danglingtree-writeup](https://github.com/FindYourBugs/danglingtree-writeup) | Full technical writeup, HTB "DanglingTree" (Medium) — AD forest with an Enterprise CA in the chain. | 0 |
 | [Puppet---HTB-writeup](https://github.com/FindYourBugs/Puppet---HTB-writeup) | — | 0 |
 | [checkpoint---writeup](https://github.com/FindYourBugs/checkpoint---writeup) | — | 0 |
