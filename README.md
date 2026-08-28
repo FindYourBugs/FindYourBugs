@@ -51,6 +51,8 @@ Currently building toward freelance VAPT work and bug bounty, on top of hands-on
 | Writeup | Description | ★ |
 |---|---|---|
 | [danglingtree-writeup](https://github.com/FindYourBugs/danglingtree-writeup) | Full technical writeup, HTB "DanglingTree" (Medium) — AD forest with an Enterprise CA in the chain. | 0 |
+| [Puppet---HTB-writeup](https://github.com/FindYourBugs/Puppet---HTB-writeup) | — | 0 |
+| [checkpoint---writeup](https://github.com/FindYourBugs/checkpoint---writeup) | — | 0 |
 <!-- WRITEUPS:END -->
 
 *(Auto-updated — every new public repo with "writeup" in its name shows up here automatically.)*
