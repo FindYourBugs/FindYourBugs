@@ -1,0 +1,63 @@
+name: Update writeup cards
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch writeup repos
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh repo list FindYourBugs --limit 100 --json name,isPrivate,createdAt \
+            --jq '[.[] | select(.isPrivate == false) | select(.name | ascii_downcase | contains("writeup"))] | sort_by(.createdAt) | reverse' > repos.json
+          cat repos.json
+
+      - name: Build cards block
+        run: |
+          {
+            echo "<!-- WRITEUPS:START -->"
+            echo '<div align="center">'
+            jq -r '.[].name' repos.json | while read -r repo; do
+              echo "<a href=\"https://github.com/FindYourBugs/$repo\"><img height=\"165\" src=\"https://github-readme-stats.vercel.app/api/pin/?username=FindYourBugs&repo=$repo&theme=tokyonight&hide_border=true#gh-dark-mode-only\" /></a>"
+              echo "<a href=\"https://github.com/FindYourBugs/$repo\"><img height=\"165\" src=\"https://github-readme-stats.vercel.app/api/pin/?username=FindYourBugs&repo=$repo&hide_border=true#gh-light-mode-only\" /></a>"
+            done
+            echo '</div>'
+            echo "<!-- WRITEUPS:END -->"
+          } > cards_block.md
+          cat cards_block.md
+
+      - name: Inject into README
+        run: |
+          python3 - <<'PY'
+          import re
+          with open("README.md") as f:
+              content = f.read()
+          with open("cards_block.md") as f:
+              block = f.read().strip()
+          new_content = re.sub(
+              r"<!-- WRITEUPS:START -->.*?<!-- WRITEUPS:END -->",
+              lambda _: block,
+              content,
+              flags=re.DOTALL,
+          )
+          with open("README.md", "w") as f:
+              f.write(new_content)
+          PY
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "Auto-update writeup cards"
+          git push

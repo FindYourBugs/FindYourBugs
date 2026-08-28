@@ -33,8 +33,10 @@ Currently building toward freelance VAPT work and bug bounty, on top of hands-on
 | | |
 |---|---|
 | **Web Application VAPT** | Auth/session logic flaws, injection (SQL/NoSQL/SSTI), IDOR, deserialization, SSRF, business-logic abuse |
+| **API Security Testing** | BOLA/IDOR, broken function-level auth, mass assignment, rate-limit/abuse flaws, GraphQL introspection & injection |
 | **Android Application VAPT** | Insecure storage, weak transport security, broken auth, exported-component abuse, static + dynamic (Frida) analysis |
-| **Active Directory / Network** | Kerberos abuse (Shadow Credentials, dMSA/BadSuccessor, delegation), lateral movement, credential coercion, privilege escalation |
+| **Network / Infrastructure Pentesting** | External & internal network assessments, service enumeration, firewall/segmentation testing, pivoting |
+| **Active Directory & Red Teaming** | Kerberos abuse (Shadow Credentials, dMSA/BadSuccessor, delegation), lateral movement, credential coercion, C2 tradecraft, adversary emulation |
 | **SIEM & Forensics** | Log correlation, detection-rule authoring (Wazuh), incident triage, timeline reconstruction |
 
 ## Projects
@@ -42,7 +44,17 @@ Currently building toward freelance VAPT work and bug bounty, on top of hands-on
 - **[VAPT.ai](https://github.com/FindYourBugs/VAPT.ai)** — local AI-assisted VAPT workspace: FastAPI backend, scope enforcement, Kali tool orchestration, controlled browser capture, local LLM-assisted analysis, and audit-logged reporting.
 - **[AI-Pentesting-Playground](https://github.com/FindYourBugs/AI-Pentesting-Playground)** — practical test cases for the OWASP Top 10 for LLM applications.
 - **[sophos-wazuh-decoder](https://github.com/FindYourBugs/sophos-wazuh-decoder)** / **[sophos-wazuh-rule](https://github.com/FindYourBugs/sophos-wazuh-rule)** — custom Wazuh SIEM decoders and detection rules for Sophos firewall logs.
-- **[danglingtree-writeup](https://github.com/FindYourBugs/danglingtree-writeup)** — full technical writeup, HTB "DanglingTree" (Medium), AD forest with an Enterprise CA in the chain.
+
+## Writeups
+
+<!-- WRITEUPS:START -->
+<div align="center">
+<a href="https://github.com/FindYourBugs/danglingtree-writeup"><img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=FindYourBugs&repo=danglingtree-writeup&theme=tokyonight&hide_border=true#gh-dark-mode-only" /></a>
+<a href="https://github.com/FindYourBugs/danglingtree-writeup"><img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=FindYourBugs&repo=danglingtree-writeup&hide_border=true#gh-light-mode-only" /></a>
+</div>
+<!-- WRITEUPS:END -->
+
+*(Auto-updated — every new public repo with "writeup" in its name shows up here automatically.)*
 
 ## GitHub stats
 
