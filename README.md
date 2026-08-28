@@ -48,10 +48,9 @@ Currently building toward freelance VAPT work and bug bounty, on top of hands-on
 ## Writeups
 
 <!-- WRITEUPS:START -->
-<div align="center">
-<a href="https://github.com/FindYourBugs/danglingtree-writeup"><img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=FindYourBugs&repo=danglingtree-writeup&theme=tokyonight&hide_border=true#gh-dark-mode-only" /></a>
-<a href="https://github.com/FindYourBugs/danglingtree-writeup"><img height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=FindYourBugs&repo=danglingtree-writeup&hide_border=true#gh-light-mode-only" /></a>
-</div>
+| Writeup | Description | ★ |
+|---|---|---|
+| [danglingtree-writeup](https://github.com/FindYourBugs/danglingtree-writeup) | Full technical writeup, HTB "DanglingTree" (Medium), AD forest with an Enterprise CA in the chain. | 0 |
 <!-- WRITEUPS:END -->
 
 *(Auto-updated — every new public repo with "writeup" in its name shows up here automatically.)*
@@ -59,10 +58,7 @@ Currently building toward freelance VAPT work and bug bounty, on top of hands-on
 ## GitHub stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FindYourBugs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true#gh-dark-mode-only" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FindYourBugs&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only" />
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FindYourBugs&show_icons=true&theme=default&hide_border=true&count_private=true#gh-light-mode-only" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FindYourBugs&layout=compact&hide_border=true#gh-light-mode-only" />
+<img src="https://raw.githubusercontent.com/FindYourBugs/FindYourBugs/master/github-metrics.svg" />
 </div>
 
 <div align="center">

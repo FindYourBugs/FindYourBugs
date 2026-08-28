@@ -18,7 +18,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh repo list FindYourBugs --limit 100 --json name,isPrivate,createdAt \
+          gh repo list FindYourBugs --limit 100 --json name,description,isPrivate,createdAt,stargazerCount \
             --jq '[.[] | select(.isPrivate == false) | select(.name | ascii_downcase | contains("writeup"))] | sort_by(.createdAt) | reverse' > repos.json
           cat repos.json
 
@@ -26,12 +26,14 @@ jobs:
         run: |
           {
             echo "<!-- WRITEUPS:START -->"
-            echo '<div align="center">'
-            jq -r '.[].name' repos.json | while read -r repo; do
-              echo "<a href=\"https://github.com/FindYourBugs/$repo\"><img height=\"165\" src=\"https://github-readme-stats.vercel.app/api/pin/?username=FindYourBugs&repo=$repo&theme=tokyonight&hide_border=true#gh-dark-mode-only\" /></a>"
-              echo "<a href=\"https://github.com/FindYourBugs/$repo\"><img height=\"165\" src=\"https://github-readme-stats.vercel.app/api/pin/?username=FindYourBugs&repo=$repo&hide_border=true#gh-light-mode-only\" /></a>"
+            echo '| Writeup | Description | ★ |'
+            echo '|---|---|---|'
+            jq -c '.[]' repos.json | while read -r row; do
+              name=$(echo "$row" | jq -r '.name')
+              desc=$(echo "$row" | jq -r '.description // "—"')
+              stars=$(echo "$row" | jq -r '.stargazerCount')
+              echo "| [$name](https://github.com/FindYourBugs/$name) | $desc | $stars |"
             done
-            echo '</div>'
             echo "<!-- WRITEUPS:END -->"
           } > cards_block.md
           cat cards_block.md
