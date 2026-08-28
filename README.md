@@ -3,7 +3,7 @@
 # Shrikant Shinde
 ### Offensive Security
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F6FED&center=true&vCenter=true&width=600&lines=Breaking+web+apps+and+Android+apps+for+a+living;Full+AD+kill-chains%2C+not+just+checkbox+scans;Documenting+every+finding+like+someone+has+to+fix+it)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F6FED&center=true&vCenter=true&width=600&lines=Offensive+Security)](https://git.io/typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-findyourbugs.github.io-2F6FED?style=flat-square)](https://findyourbugs.github.io/shrikant-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shrikant--shinde-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shrikant-shinde-194890202)
