@@ -47,12 +47,15 @@ Currently building toward freelance VAPT work and bug bounty, on top of hands-on
 ## GitHub stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FindYourBugs&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FindYourBugs&layout=compact&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=FindYourBugs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true#gh-dark-mode-only" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FindYourBugs&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=FindYourBugs&show_icons=true&theme=default&hide_border=true&count_private=true#gh-light-mode-only" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FindYourBugs&layout=compact&hide_border=true#gh-light-mode-only" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FindYourBugs&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FindYourBugs&theme=tokyonight&hide_border=true#gh-dark-mode-only" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FindYourBugs&hide_border=true#gh-light-mode-only" />
 </div>
 
 ## Toolset
