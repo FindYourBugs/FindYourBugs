@@ -62,7 +62,6 @@ Currently building toward freelance VAPT work and bug bounty, on top of hands-on
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FindYourBugs&theme=tokyonight&hide_border=true#gh-dark-mode-only" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FindYourBugs&hide_border=true#gh-light-mode-only" />
 </div>
 
