@@ -49,15 +49,10 @@ Currently building toward freelance VAPT work and bug bounty, on top of hands-on
 | Writeup | Description | ★ |
 |---|---|---|
 | [paperwork-writeup](https://github.com/FindYourBugs/paperwork-writeup) | HackTheBox "Paperwork" — Easy Difficulty — Legacy Protocol Exploitation & Privilege Escalation Writeup | 0 |
-| [odyssey-writeup](https://github.com/FindYourBugs/odyssey-writeup) | HackTheBox "Odyssey" — Insane Difficulty — Web Chain to Active Directory Domain Compromise Writeup | 0 |
 | [nimbus-writeup](https://github.com/FindYourBugs/nimbus-writeup) | HackTheBox "Nimbus" — Hard Difficulty — Cloud-Native / AWS Service Abuse Pentest Writeup | 0 |
 | [ghostlink-writeup](https://github.com/FindYourBugs/ghostlink-writeup) | HackTheBox "Ghostlink" — Insane Difficulty — Active Directory / ADCS Pentest Writeup | 0 |
-| [darkzeroreturns-writeup](https://github.com/FindYourBugs/darkzeroreturns-writeup) | HackTheBox "DarkZeroReturns" — Hard Difficulty — Pro Lab Entry Chain: AD Forest Trust & CI/CD Abuse Writeup | 0 |
-| [cobblestone-writeup](https://github.com/FindYourBugs/cobblestone-writeup) | HackTheBox "Cobblestone" — Insane Difficulty — Second-Order SQLi to Twig SSTI to Cobbler RCE Writeup | 0 |
 | [bedside-writeup](https://github.com/FindYourBugs/bedside-writeup) | HackTheBox "Bedside" — Medium Difficulty — Web Exploitation, Container Pivoting & ML Deserialization Writeup | 0 |
 | [abducted-writeup](https://github.com/FindYourBugs/abducted-writeup) | HackTheBox "Abducted" — Medium Difficulty — Samba Print-Spooler RCE & Privilege Escalation Writeup | 0 |
-| [danglingtree-writeup](https://github.com/FindYourBugs/danglingtree-writeup) | Full technical writeup, HTB "DanglingTree" (Medium) — AD forest with an Enterprise CA in the chain. | 0 |
-| [Puppet---HTB-writeup](https://github.com/FindYourBugs/Puppet---HTB-writeup) | Hack The Box Pro Lab: Puppet - Writeup | 0 |
 | [checkpoint---writeup](https://github.com/FindYourBugs/checkpoint---writeup) | Checkpoint — Hack The Box Writeup — Medium — Active Directory, SMB, VMware Memory Forensics, Kerberos, BadSuccessor/dMSA | 0 |
 <!-- WRITEUPS:END -->
 
