@@ -48,13 +48,6 @@ Currently building toward freelance VAPT work and bug bounty, on top of hands-on
 <!-- WRITEUPS:START -->
 | Writeup | Description | ★ |
 |---|---|---|
-| [threadly-writeup](https://github.com/FindYourBugs/threadly-writeup) | BugThrive Labs "Threadly" — Introduction Difficulty — Business Logic / Race Condition Writeup | 0 |
-| [paperwork-writeup](https://github.com/FindYourBugs/paperwork-writeup) | HackTheBox "Paperwork" — Easy Difficulty — Legacy Protocol Exploitation & Privilege Escalation Writeup | 0 |
-| [nimbus-writeup](https://github.com/FindYourBugs/nimbus-writeup) | HackTheBox "Nimbus" — Hard Difficulty — Cloud-Native / AWS Service Abuse Pentest Writeup | 0 |
-| [ghostlink-writeup](https://github.com/FindYourBugs/ghostlink-writeup) | HackTheBox "Ghostlink" — Insane Difficulty — Active Directory / ADCS Pentest Writeup | 0 |
-| [bedside-writeup](https://github.com/FindYourBugs/bedside-writeup) | HackTheBox "Bedside" — Medium Difficulty — Web Exploitation, Container Pivoting & ML Deserialization Writeup | 0 |
-| [abducted-writeup](https://github.com/FindYourBugs/abducted-writeup) | HackTheBox "Abducted" — Medium Difficulty — Samba Print-Spooler RCE & Privilege Escalation Writeup | 0 |
-| [checkpoint---writeup](https://github.com/FindYourBugs/checkpoint---writeup) | Checkpoint — Hack The Box Writeup — Medium — Active Directory, SMB, VMware Memory Forensics, Kerberos, BadSuccessor/dMSA | 0 |
 <!-- WRITEUPS:END -->
 
 *(Auto-updated — every new public repo with "writeup" in its name shows up here automatically.)*
