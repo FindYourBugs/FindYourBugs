@@ -28,13 +28,14 @@ Currently building toward freelance VAPT work and bug bounty, on top of hands-on
 
 ## Bug Bounty
 
-Active on Bugcrowd, testing public programs including `nasa.gov`.
+Active on Bugcrowd and independent vulnerability disclosure, testing public programs including `nasa.gov`.
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/FindYourBugs/FindYourBugs/master/assets/bugbounty-nasa-broken-access-control.jpg" width="420">
-</p>
-
-<sub>Broken Access Control finding on a nasa.gov REST API — closed as a duplicate (another researcher reported it first), included here as evidence of active testing on high-profile targets, not as a paid/accepted result.</sub>
+<table>
+<tr>
+<td align="center" width="50%"><a href="https://raw.githubusercontent.com/FindYourBugs/FindYourBugs/master/assets/bugbounty-nasa-broken-access-control.jpg"><img src="https://raw.githubusercontent.com/FindYourBugs/FindYourBugs/master/assets/bugbounty-nasa-broken-access-control.jpg" width="300"></a><br><sub><b>nasa.gov — Broken Access Control</b></sub><br><sub>Bugcrowd, closed as duplicate</sub></td>
+<td align="center" width="50%"><a href="https://raw.githubusercontent.com/FindYourBugs/FindYourBugs/master/assets/customer-satisfaction-shyam-sales-hof.jpg"><img src="https://raw.githubusercontent.com/FindYourBugs/FindYourBugs/master/assets/customer-satisfaction-shyam-sales-hof.jpg" width="300"></a><br><sub><b>Shyam Sales — Hall of Fame</b></sub><br><sub>Privilege Escalation, Jan 2022</sub></td>
+</tr>
+</table>
 
 ## What I test
 
@@ -75,7 +76,7 @@ Active on Bugcrowd, testing public programs including `nasa.gov`.
 </tr>
 <tr>
 <td align="center" width="25%"><a href="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/letter.png"><img src="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/letter.png" width="170"></a><br><sub><b>Appreciation Letter</b></sub></td>
-<td align="center" width="25%"><a href="https://raw.githubusercontent.com/FindYourBugs/FindYourBugs/master/assets/customer-satisfaction-shyam-sales-hof.jpg"><img src="https://raw.githubusercontent.com/FindYourBugs/FindYourBugs/master/assets/customer-satisfaction-shyam-sales-hof.jpg" width="170"></a><br><sub><b>Shyam Sales — Hall of Fame</b></sub></td>
+<td width="25%"></td>
 <td width="25%"></td>
 <td width="25%"></td>
 </tr>
