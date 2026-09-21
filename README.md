@@ -164,6 +164,14 @@ Currently building toward freelance VAPT work and bug bounty, on top of hands-on
 </tr>
 </table>
 
+### HTB Pro Labs
+
+<table>
+<tr>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/prolabs"><img src="https://app.hackthebox.com/images/icons/ic-prolabs/ic-puppet-overview.png" width="170"></a><br><sub><b>Puppet</b></sub></td>
+</tr>
+</table>
+
 ### BugThrive Labs
 
 <table>
