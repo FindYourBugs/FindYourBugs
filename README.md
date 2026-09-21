@@ -25,6 +25,7 @@ Currently building toward freelance VAPT work and bug bounty, on top of hands-on
 - Simulate real-world attacks through Red Team Operations
 - Perform VAPT across Web, Android, Cloud, Network/Infra (Internal & External), and API
 - Handle SIEM monitoring (Chronicle, Wazuh) and log analysis
+- Assist with tool/infra deployment and configuration
 
 ## What I test
 
