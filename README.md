@@ -22,7 +22,7 @@ Currently building toward freelance VAPT work and bug bounty, on top of hands-on
 
 **HackTheBox "Odyssey" (Insane)** — full external-to-Domain-Admin kill chain: NoSQL aggregation-pipeline injection → forged WebAuthn credential + `userHandle` confusion → prototype pollution into a LaTeX file-read oracle → jsonpath-plus RCE → password reuse to root → MSSQL NTLM coercion → GodPotato to SYSTEM → Shadow Credentials chained through a 4-level nested AD group into a **BadSuccessor dMSA** identity-theft abuse → reverse-engineered a custom .NET named-pipe service (decompiled with ilspycmd) into a **DPAPI decryption-oracle** bug and a **YamlDotNet `ObjectDataProvider` deserialization RCE** → Rubeus `tgtdeleg` → DCSync → Domain Admin.
 
-**HackTheBox "Silentium" (Insane)** — Flowise 3.0.5 unauthenticated password-reset token leak (CVE-2025-58434) → admin takeover → `Function()`-constructor RCE via a Custom MCP node (CVE-2025-59528) → container escape via leaked env credentials → internal Gogs instance compromised via a symlink-based `PutContents` arbitrary file write (CVE-2025-8110) → overwrote `root`'s `authorized_keys` → root.
+**HackTheBox "Silentium" (Easy)** — Flowise 3.0.5 unauthenticated password-reset token leak (CVE-2025-58434) → admin takeover → `Function()`-constructor RCE via a Custom MCP node (CVE-2025-59528) → container escape via leaked env credentials → internal Gogs instance compromised via a symlink-based `PutContents` arbitrary file write (CVE-2025-8110) → overwrote `root`'s `authorized_keys` → root.
 
 *(Full writeups follow the same format as [danglingtree-writeup](https://github.com/FindYourBugs/danglingtree-writeup) below.)*
 
