@@ -32,8 +32,9 @@ Active on Bugcrowd and independent vulnerability disclosure, testing public prog
 
 <table>
 <tr>
-<td align="center" width="50%"><a href="https://raw.githubusercontent.com/FindYourBugs/FindYourBugs/master/assets/bugbounty-nasa-broken-access-control.jpg"><img src="https://raw.githubusercontent.com/FindYourBugs/FindYourBugs/master/assets/bugbounty-nasa-broken-access-control.jpg" width="300"></a><br><sub><b>nasa.gov — Broken Access Control</b></sub><br><sub>Bugcrowd, closed as duplicate</sub></td>
-<td align="center" width="50%"><a href="https://raw.githubusercontent.com/FindYourBugs/FindYourBugs/master/assets/customer-satisfaction-shyam-sales-hof.jpg"><img src="https://raw.githubusercontent.com/FindYourBugs/FindYourBugs/master/assets/customer-satisfaction-shyam-sales-hof.jpg" width="300"></a><br><sub><b>Shyam Sales — Hall of Fame</b></sub><br><sub>Privilege Escalation, Jan 2022</sub></td>
+<td align="center" width="33%"><a href="https://raw.githubusercontent.com/FindYourBugs/FindYourBugs/master/assets/bugbounty-nasa-broken-access-control.jpg"><img src="https://raw.githubusercontent.com/FindYourBugs/FindYourBugs/master/assets/bugbounty-nasa-broken-access-control.jpg" width="260"></a><br><sub><b>nasa.gov — Broken Access Control</b></sub><br><sub>Bugcrowd, closed as duplicate</sub></td>
+<td align="center" width="33%"><a href="https://raw.githubusercontent.com/FindYourBugs/FindYourBugs/master/assets/bugbounty-globe-adat-idor.jpg"><img src="https://raw.githubusercontent.com/FindYourBugs/FindYourBugs/master/assets/bugbounty-globe-adat-idor.jpg" width="260"></a><br><sub><b>GLOBE ADAT — IDOR</b></sub><br><sub>Bugcrowd, closed as duplicate</sub></td>
+<td align="center" width="33%"><a href="https://raw.githubusercontent.com/FindYourBugs/FindYourBugs/master/assets/customer-satisfaction-shyam-sales-hof.jpg"><img src="https://raw.githubusercontent.com/FindYourBugs/FindYourBugs/master/assets/customer-satisfaction-shyam-sales-hof.jpg" width="260"></a><br><sub><b>Shyam Sales — Hall of Fame</b></sub><br><sub>Privilege Escalation, Jan 2022</sub></td>
 </tr>
 </table>
 
