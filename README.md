@@ -18,13 +18,13 @@ Penetration tester focused on **Web Application VAPT**, **Android Application VA
 
 Currently building toward freelance VAPT work and bug bounty, on top of hands-on lab work that goes well past "ran a scanner."
 
-## Recent engagements
+## Work Experience
 
-**HackTheBox "Odyssey" (Insane)** — full external-to-Domain-Admin kill chain: NoSQL aggregation-pipeline injection → forged WebAuthn credential + `userHandle` confusion → prototype pollution into a LaTeX file-read oracle → jsonpath-plus RCE → password reuse to root → MSSQL NTLM coercion → GodPotato to SYSTEM → Shadow Credentials chained through a 4-level nested AD group into a **BadSuccessor dMSA** identity-theft abuse → reverse-engineered a custom .NET named-pipe service (decompiled with ilspycmd) into a **DPAPI decryption-oracle** bug and a **YamlDotNet `ObjectDataProvider` deserialization RCE** → Rubeus `tgtdeleg` → DCSync → Domain Admin.
+**SysTools Software Pvt. Ltd.** — *Current*
 
-**HackTheBox "Silentium" (Easy)** — Flowise 3.0.5 unauthenticated password-reset token leak (CVE-2025-58434) → admin takeover → `Function()`-constructor RCE via a Custom MCP node (CVE-2025-59528) → container escape via leaked env credentials → internal Gogs instance compromised via a symlink-based `PutContents` arbitrary file write (CVE-2025-8110) → overwrote `root`'s `authorized_keys` → root.
-
-*(Full writeups follow the same format as [danglingtree-writeup](https://github.com/FindYourBugs/danglingtree-writeup) below.)*
+- **Red Team Operations**
+- **VAPT** — Web Applications, Android Applications, Cloud VAPT, Network/Infra VAPT (Internal & External), API VAPT
+- **SIEM** — Chronicle, Wazuh, and log analysis
 
 ## What I test
 
@@ -83,8 +83,6 @@ Currently building toward freelance VAPT work and bug bounty, on top of hands-on
 | Medium | 10 / 194 | 5.15% |
 | Hard | 3 / 124 | 2.42% |
 | Insane | 2 / 70 | 2.86% |
-
-Full writeups for **Odyssey** (Insane) are above in **Recent engagements**.
 
 ### Owned Machines (33)
 
