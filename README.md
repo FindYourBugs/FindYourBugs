@@ -85,6 +85,24 @@ Currently building toward freelance VAPT work and bug bounty, on top of hands-on
 </tr>
 </table>
 
+**Live HTB profile stats** ([full profile](https://app.hackthebox.com/profile/367730)):
+
+<p align="center">
+<img src="https://img.shields.io/badge/Rank-Pro%20Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white">
+<img src="https://img.shields.io/badge/Global%20Ranking-%23546-9FEF00?style=for-the-badge">
+<img src="https://img.shields.io/badge/Machine%20Owns-33-9FEF00?style=for-the-badge">
+<img src="https://img.shields.io/badge/User%20Owns-39-9FEF00?style=for-the-badge">
+</p>
+
+| Difficulty | Owned / Total | Completion |
+|---|---|---|
+| Easy | 18 / 164 | 10.98% |
+| Medium | 10 / 194 | 5.15% |
+| Hard | 3 / 124 | 2.42% |
+| Insane | 2 / 70 | 2.86% |
+
+Notable Insane-difficulty clears with full writeups above (see **Recent engagements**): **Odyssey**, **Silentium**.
+
 ### BugThrive Labs
 
 <table>
