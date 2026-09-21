@@ -39,48 +39,87 @@ Currently building toward freelance VAPT work and bug bounty, on top of hands-on
 
 ## Certifications
 
-- Ethical Hacking Certified
-- Certified Penetration Tester Expert
-- Android Pentesting 101
-- Cyber Threat Intelligence 101
-- Computer Hacking Forensic Investigator
-- Red Team Operations
-- Practical Ethical Hacking
-- Practical Malware Analysis Triage
-
-*(Certificate images: [portfolio → Certificates](https://findyourbugs.github.io/shrikant-portfolio/#certificates))*
+<table>
+<tr>
+<td align="center" width="25%"><a href="https://findyourbugs.github.io/shrikant-portfolio/certificates/CISEH.png"><img src="https://findyourbugs.github.io/shrikant-portfolio/certificates/CISEH.png" width="170"></a><br><sub><b>Ethical Hacking Certified</b></sub></td>
+<td align="center" width="25%"><a href="https://findyourbugs.github.io/shrikant-portfolio/certificates/CPTE.png"><img src="https://findyourbugs.github.io/shrikant-portfolio/certificates/CPTE.png" width="170"></a><br><sub><b>Certified Penetration Tester Expert</b></sub></td>
+<td align="center" width="25%"><a href="https://findyourbugs.github.io/shrikant-portfolio/certificates/UC-364a2adc-234e-440d-9753-f0f49a6eb2b2.png"><img src="https://findyourbugs.github.io/shrikant-portfolio/certificates/UC-364a2adc-234e-440d-9753-f0f49a6eb2b2.png" width="170"></a><br><sub><b>Android Pentesting 101</b></sub></td>
+<td align="center" width="25%"><a href="https://findyourbugs.github.io/shrikant-portfolio/certificates/certificate.png"><img src="https://findyourbugs.github.io/shrikant-portfolio/certificates/certificate.png" width="170"></a><br><sub><b>Cyber Threat Intelligence 101</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="25%"><a href="https://findyourbugs.github.io/shrikant-portfolio/certificates/chfi.png"><img src="https://findyourbugs.github.io/shrikant-portfolio/certificates/chfi.png" width="170"></a><br><sub><b>Computer Hacking Forensic Investigator</b></sub></td>
+<td align="center" width="25%"><a href="https://findyourbugs.github.io/shrikant-portfolio/certificates/redteam.png"><img src="https://findyourbugs.github.io/shrikant-portfolio/certificates/redteam.png" width="170"></a><br><sub><b>Red Team Operations</b></sub></td>
+<td align="center" width="25%"><a href="https://findyourbugs.github.io/shrikant-portfolio/certificates/peh.png"><img src="https://findyourbugs.github.io/shrikant-portfolio/certificates/peh.png" width="170"></a><br><sub><b>Practical Ethical Hacking</b></sub></td>
+<td align="center" width="25%"><a href="https://findyourbugs.github.io/shrikant-portfolio/certificates/pmat.png"><img src="https://findyourbugs.github.io/shrikant-portfolio/certificates/pmat.png" width="170"></a><br><sub><b>Practical Malware Analysis Triage</b></sub></td>
+</tr>
+</table>
 
 ## Customer Satisfaction
 
-Client feedback and appreciation from VAPT engagements — full certificates and letters on the [portfolio → Feedback](https://findyourbugs.github.io/shrikant-portfolio/#satisfaction) section.
-
-- VAPT Client Satisfaction ×3
-- Certificate of Appreciation
-- Appreciation Letter
+<table>
+<tr>
+<td align="center" width="20%"><a href="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/2026-06-13%2002_00_57-badge_render_fix%20-%20File%20Explorer.png"><img src="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/2026-06-13%2002_00_57-badge_render_fix%20-%20File%20Explorer.png" width="170"></a><br><sub><b>VAPT Client Satisfaction</b></sub></td>
+<td align="center" width="20%"><a href="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/g.png"><img src="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/g.png" width="170"></a><br><sub><b>VAPT Client Satisfaction</b></sub></td>
+<td align="center" width="20%"><a href="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/r.png"><img src="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/r.png" width="170"></a><br><sub><b>VAPT Client Satisfaction</b></sub></td>
+<td align="center" width="20%"><a href="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/Certificate_Shrikant%20Shinde.png"><img src="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/Certificate_Shrikant%20Shinde.png" width="170"></a><br><sub><b>Certificate of Appreciation</b></sub></td>
+<td align="center" width="20%"><a href="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/letter.png"><img src="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/letter.png" width="170"></a><br><sub><b>Appreciation Letter</b></sub></td>
+</tr>
+</table>
 
 ## Achievements — Badges
 
-<p align="center">
-<a href="https://www.skills.google/public_profiles/2eb60882-db14-4264-988c-400ed5dde35e/badges/2892117"><img src="https://cdn.qwiklabs.com/psMLoIO%2Bj4eAf0CdoV9OGmK8LgVYs0U%2FsNYoanjsZDI%3D" height="72" alt="Chronicle Technical Training"></a>&nbsp;
-<a href="https://labs.hackthebox.com/achievement/machine/367730/499"><img src="https://htb-mp-prod-public-storage.s3.eu-central-1.amazonaws.com/avatars/c45df8beebb6291da1c4cd8de04dd7a5.png" height="72" alt="Ambassador"></a>&nbsp;
-<a href="https://labs.hackthebox.com/achievement/machine/367730/267"><img src="https://htb-mp-prod-public-storage.s3.eu-central-1.amazonaws.com/avatars/792cdcf6434dad849ef37c4ab16bd68b.png" height="72" alt="OpenKeyS"></a>&nbsp;
-<a href="https://labs.hackthebox.com/achievement/machine/367730/900"><img src="https://htb-mp-prod-public-storage.s3.eu-central-1.amazonaws.com/avatars/56868ca419111fc0721393a2ffa0cefe.png" height="72" alt="Reactor"></a>&nbsp;
-<a href="https://academy.hackthebox.com/achievement/badge/a0957aca-c408-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/academician.png" height="72" alt="Academician"></a>&nbsp;
-<a href="https://academy.hackthebox.com/achievement/badge/ae2cb5ce-c408-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/your-request-is-my-demand.png" height="72" alt="Your request is my demand"></a>&nbsp;
-<a href="https://academy.hackthebox.com/achievement/badge/33047f95-4a97-11f1-82d1-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/fuzzing-is-power.png" height="72" alt="Fuzzing is power"></a>&nbsp;
-<a href="https://academy.hackthebox.com/achievement/badge/b52a171c-c408-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/developer.png" height="72" alt="Developer"></a>&nbsp;
-<a href="https://academy.hackthebox.com/achievement/badge/d0080789-ed6b-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/4a11a1a1d810967184694662d629de2d/logo.png" height="72" alt="Panoptic"></a>&nbsp;
-<a href="https://labs.bugthrive.com/achievement/firstblood/6a26ac58eec06840ae4d3c47"><img src="https://ik.imagekit.io/bugthrive/labs/firstblood_fvH8qgzar.png" height="72" alt="First Blood"></a>&nbsp;
-<a href="https://labs.bugthrive.com/achievement/blacktop/6a26ac58eec06840ae4d3c47"><img src="https://ik.imagekit.io/bugthrive/labs/blacktop-01_o0uxZWWg5j.png" height="72" alt="Blacktop"></a>&nbsp;
-<a href="https://labs.bugthrive.com/achievement/echodesk-app/6a26ac58eec06840ae4d3c47"><img src="https://ik.imagekit.io/bugthrive/labs/Echodesk-01_1xrW8i5eE.png" height="72" alt="EchoDesk App"></a>&nbsp;
-<a href="https://assets.tryhackme.com/room-badges/1439b0d200fa3b7ef154b467b4d551d1.png"><img src="https://assets.tryhackme.com/room-badges/1439b0d200fa3b7ef154b467b4d551d1.png" height="72" alt="Advent of Cyber"></a>&nbsp;
-<a href="https://assets.tryhackme.com/room-badges/a64e088212fb9a34edd9f5de873ef468.png"><img src="https://assets.tryhackme.com/room-badges/a64e088212fb9a34edd9f5de873ef468.png" height="72" alt="Blue"></a>&nbsp;
-<a href="https://assets.tryhackme.com/room-badges/03f7d810170bb89b0f30dc34f714429d.png"><img src="https://assets.tryhackme.com/room-badges/03f7d810170bb89b0f30dc34f714429d.png" height="72" alt="Ice"></a>&nbsp;
-<a href="https://assets.tryhackme.com/room-badges/356f0e028681fdc21515042572a2e1c4.png"><img src="https://assets.tryhackme.com/room-badges/356f0e028681fdc21515042572a2e1c4.png" height="72" alt="Mr Robot"></a>&nbsp;
-<a href="https://assets.tryhackme.com/room-badges/98e1a1f3d80d8714a09f86b4c089398c.png"><img src="https://assets.tryhackme.com/room-badges/98e1a1f3d80d8714a09f86b4c089398c.png" height="72" alt="Pentesting Principles"></a>
-</p>
+### Hack The Box Academy
 
-*(Google Cloud Skills Boost, Hack The Box Academy, BugThrive Labs, and TryHackMe verified badges — full list on the [portfolio → Badges](https://findyourbugs.github.io/shrikant-portfolio/#badges) section.)*
+<table>
+<tr>
+<td align="center" width="25%"><a href="https://labs.hackthebox.com/achievement/machine/367730/499"><img src="https://htb-mp-prod-public-storage.s3.eu-central-1.amazonaws.com/avatars/c45df8beebb6291da1c4cd8de04dd7a5.png" height="100"></a><br><sub><b>Ambassador</b></sub></td>
+<td align="center" width="25%"><a href="https://labs.hackthebox.com/achievement/machine/367730/267"><img src="https://htb-mp-prod-public-storage.s3.eu-central-1.amazonaws.com/avatars/792cdcf6434dad849ef37c4ab16bd68b.png" height="100"></a><br><sub><b>OpenKeyS</b></sub></td>
+<td align="center" width="25%"><a href="https://labs.hackthebox.com/achievement/machine/367730/900"><img src="https://htb-mp-prod-public-storage.s3.eu-central-1.amazonaws.com/avatars/56868ca419111fc0721393a2ffa0cefe.png" height="100"></a><br><sub><b>Reactor</b></sub></td>
+<td align="center" width="25%"><a href="https://academy.hackthebox.com/achievement/badge/a0957aca-c408-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/academician.png" height="100"></a><br><sub><b>Academician</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="25%"><a href="https://academy.hackthebox.com/achievement/badge/ae2cb5ce-c408-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/your-request-is-my-demand.png" height="100"></a><br><sub><b>Your Request Is My Demand</b></sub></td>
+<td align="center" width="25%"><a href="https://academy.hackthebox.com/achievement/badge/33047f95-4a97-11f1-82d1-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/fuzzing-is-power.png" height="100"></a><br><sub><b>Fuzzing Is Power</b></sub></td>
+<td align="center" width="25%"><a href="https://academy.hackthebox.com/achievement/badge/b52a171c-c408-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/developer.png" height="100"></a><br><sub><b>Developer</b></sub></td>
+<td align="center" width="25%"><a href="https://academy.hackthebox.com/achievement/badge/d0080789-ed6b-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/4a11a1a1d810967184694662d629de2d/logo.png" height="100"></a><br><sub><b>Panoptic</b></sub></td>
+</tr>
+</table>
+
+### BugThrive Labs
+
+<table>
+<tr>
+<td align="center" width="25%"><a href="https://labs.bugthrive.com/achievement/firstblood/6a26ac58eec06840ae4d3c47"><img src="https://ik.imagekit.io/bugthrive/labs/firstblood_fvH8qgzar.png" height="100"></a><br><sub><b>First Blood</b></sub></td>
+<td align="center" width="25%"><a href="https://labs.bugthrive.com/achievement/blacktop/6a26ac58eec06840ae4d3c47"><img src="https://ik.imagekit.io/bugthrive/labs/blacktop-01_o0uxZWWg5j.png" height="100"></a><br><sub><b>Blacktop</b></sub></td>
+<td align="center" width="25%"><a href="https://labs.bugthrive.com/achievement/echodesk-app/6a26ac58eec06840ae4d3c47"><img src="https://ik.imagekit.io/bugthrive/labs/Echodesk-01_1xrW8i5eE.png" height="100"></a><br><sub><b>EchoDesk App</b></sub></td>
+<td align="center" width="25%"></td>
+</tr>
+</table>
+
+### TryHackMe
+
+<table>
+<tr>
+<td align="center" width="20%"><a href="https://tryhackme.com"><img src="https://assets.tryhackme.com/room-badges/1439b0d200fa3b7ef154b467b4d551d1.png" height="100"></a><br><sub><b>Advent of Cyber</b></sub></td>
+<td align="center" width="20%"><a href="https://tryhackme.com"><img src="https://assets.tryhackme.com/room-badges/a64e088212fb9a34edd9f5de873ef468.png" height="100"></a><br><sub><b>Blue</b></sub></td>
+<td align="center" width="20%"><a href="https://tryhackme.com"><img src="https://assets.tryhackme.com/room-badges/03f7d810170bb89b0f30dc34f714429d.png" height="100"></a><br><sub><b>Ice</b></sub></td>
+<td align="center" width="20%"><a href="https://tryhackme.com"><img src="https://assets.tryhackme.com/room-badges/356f0e028681fdc21515042572a2e1c4.png" height="100"></a><br><sub><b>Mr Robot</b></sub></td>
+<td align="center" width="20%"><a href="https://tryhackme.com"><img src="https://assets.tryhackme.com/room-badges/98e1a1f3d80d8714a09f86b4c089398c.png" height="100"></a><br><sub><b>Pentesting Principles</b></sub></td>
+</tr>
+</table>
+
+### Google Cloud Skills Boost
+
+<table>
+<tr>
+<td align="center" width="25%"><a href="https://www.skills.google/public_profiles/2eb60882-db14-4264-988c-400ed5dde35e/badges/2892117"><img src="https://cdn.qwiklabs.com/psMLoIO%2Bj4eAf0CdoV9OGmK8LgVYs0U%2FsNYoanjsZDI%3D" height="100"></a><br><sub><b>Chronicle Technical Training</b></sub></td>
+<td width="25%"></td>
+<td width="25%"></td>
+<td width="25%"></td>
+</tr>
+</table>
+
+*(All certificates, testimonials, and badges are verified/viewable on the full [portfolio](https://findyourbugs.github.io/shrikant-portfolio/).)*
 
 
 ## Projects
