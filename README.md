@@ -20,11 +20,11 @@ Currently building toward freelance VAPT work and bug bounty, on top of hands-on
 
 ## Work Experience
 
-**SysTools Software Pvt. Ltd.** — *Current*
+**Penetration Tester** — SysTools Software Pvt. Ltd. *(June 2022 – Present)*
 
-- **Red Team Operations**
-- **VAPT** — Web Applications, Android Applications, Cloud VAPT, Network/Infra VAPT (Internal & External), API VAPT
-- **SIEM** — Chronicle, Wazuh, and log analysis
+- Simulate real-world attacks through Red Team Operations
+- Perform VAPT across Web, Android, Cloud, Network/Infra (Internal & External), and API
+- Handle SIEM monitoring (Chronicle, Wazuh) and log analysis
 
 ## What I test
 
