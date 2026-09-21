@@ -37,6 +37,52 @@ Currently building toward freelance VAPT work and bug bounty, on top of hands-on
 | **Active Directory & Red Teaming** | Kerberos abuse (Shadow Credentials, dMSA/BadSuccessor, delegation), lateral movement, credential coercion, C2 tradecraft, adversary emulation |
 | **SIEM & Forensics** | Log correlation, detection-rule authoring (Wazuh), incident triage, timeline reconstruction |
 
+## Certifications
+
+- Ethical Hacking Certified
+- Certified Penetration Tester Expert
+- Android Pentesting 101
+- Cyber Threat Intelligence 101
+- Computer Hacking Forensic Investigator
+- Red Team Operations
+- Practical Ethical Hacking
+- Practical Malware Analysis Triage
+
+*(Certificate images: [portfolio → Certificates](https://findyourbugs.github.io/shrikant-portfolio/#certificates))*
+
+## Customer Satisfaction
+
+Client feedback and appreciation from VAPT engagements — full certificates and letters on the [portfolio → Feedback](https://findyourbugs.github.io/shrikant-portfolio/#satisfaction) section.
+
+- VAPT Client Satisfaction ×3
+- Certificate of Appreciation
+- Appreciation Letter
+
+## Achievements — Badges
+
+<p align="center">
+<a href="https://www.skills.google/public_profiles/2eb60882-db14-4264-988c-400ed5dde35e/badges/2892117"><img src="https://cdn.qwiklabs.com/psMLoIO%2Bj4eAf0CdoV9OGmK8LgVYs0U%2FsNYoanjsZDI%3D" height="72" alt="Chronicle Technical Training"></a>&nbsp;
+<a href="https://labs.hackthebox.com/achievement/machine/367730/499"><img src="https://htb-mp-prod-public-storage.s3.eu-central-1.amazonaws.com/avatars/c45df8beebb6291da1c4cd8de04dd7a5.png" height="72" alt="Ambassador"></a>&nbsp;
+<a href="https://labs.hackthebox.com/achievement/machine/367730/267"><img src="https://htb-mp-prod-public-storage.s3.eu-central-1.amazonaws.com/avatars/792cdcf6434dad849ef37c4ab16bd68b.png" height="72" alt="OpenKeyS"></a>&nbsp;
+<a href="https://labs.hackthebox.com/achievement/machine/367730/900"><img src="https://htb-mp-prod-public-storage.s3.eu-central-1.amazonaws.com/avatars/56868ca419111fc0721393a2ffa0cefe.png" height="72" alt="Reactor"></a>&nbsp;
+<a href="https://academy.hackthebox.com/achievement/badge/a0957aca-c408-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/academician.png" height="72" alt="Academician"></a>&nbsp;
+<a href="https://academy.hackthebox.com/achievement/badge/ae2cb5ce-c408-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/your-request-is-my-demand.png" height="72" alt="Your request is my demand"></a>&nbsp;
+<a href="https://academy.hackthebox.com/achievement/badge/33047f95-4a97-11f1-82d1-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/fuzzing-is-power.png" height="72" alt="Fuzzing is power"></a>&nbsp;
+<a href="https://academy.hackthebox.com/achievement/badge/b52a171c-c408-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/developer.png" height="72" alt="Developer"></a>&nbsp;
+<a href="https://academy.hackthebox.com/achievement/badge/d0080789-ed6b-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/4a11a1a1d810967184694662d629de2d/logo.png" height="72" alt="Panoptic"></a>&nbsp;
+<a href="https://labs.bugthrive.com/achievement/firstblood/6a26ac58eec06840ae4d3c47"><img src="https://ik.imagekit.io/bugthrive/labs/firstblood_fvH8qgzar.png" height="72" alt="First Blood"></a>&nbsp;
+<a href="https://labs.bugthrive.com/achievement/blacktop/6a26ac58eec06840ae4d3c47"><img src="https://ik.imagekit.io/bugthrive/labs/blacktop-01_o0uxZWWg5j.png" height="72" alt="Blacktop"></a>&nbsp;
+<a href="https://labs.bugthrive.com/achievement/echodesk-app/6a26ac58eec06840ae4d3c47"><img src="https://ik.imagekit.io/bugthrive/labs/Echodesk-01_1xrW8i5eE.png" height="72" alt="EchoDesk App"></a>&nbsp;
+<a href="https://assets.tryhackme.com/room-badges/1439b0d200fa3b7ef154b467b4d551d1.png"><img src="https://assets.tryhackme.com/room-badges/1439b0d200fa3b7ef154b467b4d551d1.png" height="72" alt="Advent of Cyber"></a>&nbsp;
+<a href="https://assets.tryhackme.com/room-badges/a64e088212fb9a34edd9f5de873ef468.png"><img src="https://assets.tryhackme.com/room-badges/a64e088212fb9a34edd9f5de873ef468.png" height="72" alt="Blue"></a>&nbsp;
+<a href="https://assets.tryhackme.com/room-badges/03f7d810170bb89b0f30dc34f714429d.png"><img src="https://assets.tryhackme.com/room-badges/03f7d810170bb89b0f30dc34f714429d.png" height="72" alt="Ice"></a>&nbsp;
+<a href="https://assets.tryhackme.com/room-badges/356f0e028681fdc21515042572a2e1c4.png"><img src="https://assets.tryhackme.com/room-badges/356f0e028681fdc21515042572a2e1c4.png" height="72" alt="Mr Robot"></a>&nbsp;
+<a href="https://assets.tryhackme.com/room-badges/98e1a1f3d80d8714a09f86b4c089398c.png"><img src="https://assets.tryhackme.com/room-badges/98e1a1f3d80d8714a09f86b4c089398c.png" height="72" alt="Pentesting Principles"></a>
+</p>
+
+*(Google Cloud Skills Boost, Hack The Box Academy, BugThrive Labs, and TryHackMe verified badges — full list on the [portfolio → Badges](https://findyourbugs.github.io/shrikant-portfolio/#badges) section.)*
+
+
 ## Projects
 
 - **[VAPT.ai](https://github.com/FindYourBugs/VAPT.ai)** — local AI-assisted VAPT workspace: FastAPI backend, scope enforcement, Kali tool orchestration, controlled browser capture, local LLM-assisted analysis, and audit-logged reporting.
