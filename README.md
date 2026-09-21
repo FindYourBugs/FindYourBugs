@@ -26,6 +26,16 @@ Currently building toward freelance VAPT work and bug bounty, on top of hands-on
 - Perform VAPT across Web, Android, Cloud, Network/Infra (Internal & External), and API
 - Deploy and configure SIEM platforms (Chronicle, Wazuh) and perform log analysis
 
+## Bug Bounty
+
+Active on Bugcrowd, testing public programs including `nasa.gov`.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/FindYourBugs/FindYourBugs/master/assets/bugbounty-nasa-broken-access-control.jpg" width="420">
+</p>
+
+<sub>Broken Access Control finding on a nasa.gov REST API — closed as a duplicate (another researcher reported it first), included here as evidence of active testing on high-profile targets, not as a paid/accepted result.</sub>
+
 ## What I test
 
 | | |
