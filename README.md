@@ -101,7 +101,87 @@ Currently building toward freelance VAPT work and bug bounty, on top of hands-on
 | Hard | 3 / 124 | 2.42% |
 | Insane | 2 / 70 | 2.86% |
 
-Notable Insane-difficulty clears with full writeups above (see **Recent engagements**): **Odyssey**, **Silentium**.
+Full writeups for **Odyssey** (Insane) are above in **Recent engagements**.
+
+### Owned Machines (33)
+
+<table>
+<tr>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/Cobblestone"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/9f7fc177-82e6-4b9b-acd3-0d8829304a1b.png" width="170"></a><br><sub><b>Cobblestone</b></sub><br><sub>Insane · Linux</sub></td>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/Odyssey"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/a217792b-14c4-4cc0-ad57-08decabac6f9-1782217008.png" width="170"></a><br><sub><b>Odyssey</b></sub><br><sub>Insane · Windows</sub></td>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/DarkZeroReturns"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/a1fb32a5-8e1c-4d62-bf6e-d2041d6448ad-1781002585.png" width="170"></a><br><sub><b>DarkZeroReturns</b></sub><br><sub>Hard · Windows</sub></td>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/Ghostlink"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/a21777f8-ef13-4ed6-8849-2e84c2dfa769-1782216807.png" width="170"></a><br><sub><b>Ghostlink</b></sub><br><sub>Hard · Windows</sub></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/Nimbus"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/a1e513f0-690d-4dc2-bd2c-946d3983d026-1780052541.png" width="170"></a><br><sub><b>Nimbus</b></sub><br><sub>Hard · Linux</sub></td>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/Abducted"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/a1f1a05f-5c5d-4cca-8103-cf875d8e5698-1780591497.png" width="170"></a><br><sub><b>Abducted</b></sub><br><sub>Medium · Linux</sub></td>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/Ambassador"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/9e4d90d0-0006-46d1-829d-2763947b7f2f.png" width="170"></a><br><sub><b>Ambassador</b></sub><br><sub>Medium · Linux</sub></td>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/Bedside"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/a1fb2f81-e429-48e1-b8b4-3eb33f64aec3-1781002059.png" width="170"></a><br><sub><b>Bedside</b></sub><br><sub>Medium · Linux</sub></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/Checkpoint"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/a1e5130b-96c5-4d6b-a7c3-aaa82554d1b2-1780052391.png" width="170"></a><br><sub><b>Checkpoint</b></sub><br><sub>Medium · Windows</sub></td>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/DanglingTree"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/a1fb3806-c604-4d36-bee1-66af5615df23-1781003488.png" width="170"></a><br><sub><b>DanglingTree</b></sub><br><sub>Medium · Windows</sub></td>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/DevHub"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/a1e13a3f-a4e4-4757-94e4-32b2e0d693c0-1779887169.png" width="170"></a><br><sub><b>DevHub</b></sub><br><sub>Medium · Linux</sub></td>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/Fireflow"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/a217757a-39c0-4cac-9eb8-33f7ee9c9f9b-1782216388.png" width="170"></a><br><sub><b>Fireflow</b></sub><br><sub>Medium · Linux</sub></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/MakeSense"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/a1ee21a6-26a2-430b-94eb-528f88de5882-1780441388.png" width="170"></a><br><sub><b>MakeSense</b></sub><br><sub>Medium · Linux</sub></td>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/OpenKeyS"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/9e4d90d3-5272-4472-a0be-c5aaa24f7911.png" width="170"></a><br><sub><b>OpenKeyS</b></sub><br><sub>Medium · OpenBSD</sub></td>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/SmartHire"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/a1c58333-5cc9-413e-ac18-c38bbfe4a21e-1778696818.png" width="170"></a><br><sub><b>SmartHire</b></sub><br><sub>Medium · Linux</sub></td>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/Cap"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/9e4d90d2-73c7-4da0-a15f-662bbc048868.png" width="170"></a><br><sub><b>Cap</b></sub><br><sub>Easy · Linux</sub></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/Cohort"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/a1fb351c-6269-49cd-8789-fc579a687c97-1781002999.png" width="170"></a><br><sub><b>Cohort</b></sub><br><sub>Easy · Linux</sub></td>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/Connected"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/a1e14c0a-2ce3-44f2-a101-f0415bb1e577-1779890154.png" width="170"></a><br><sub><b>Connected</b></sub><br><sub>Easy · Linux</sub></td>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/Doctor"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/9e4d90d3-26ff-43d8-af7c-73c79e7bee4a.png" width="170"></a><br><sub><b>Doctor</b></sub><br><sub>Easy · Linux</sub></td>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/Enigma"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/a1e514a2-69e8-4e79-82ab-176c3b5a26b4-1780052657.png" width="170"></a><br><sub><b>Enigma</b></sub><br><sub>Easy · Linux</sub></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/Management"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/a261b8b2-9dd5-4958-aaac-ca53661ab002-1785405942.png" width="170"></a><br><sub><b>Management</b></sub><br><sub>Easy · Linux</sub></td>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/Nexus"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/a21774d6-5dc0-4e3a-bee2-7274ea8df097-1782216281.png" width="170"></a><br><sub><b>Nexus</b></sub><br><sub>Easy · Linux</sub></td>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/Orion"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/a217731f-ce7c-4015-ba0f-d68c7f6f7215-1782215994.png" width="170"></a><br><sub><b>Orion</b></sub><br><sub>Easy · Linux</sub></td>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/Paperwork"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/a1ee24ec-e2f1-4c61-88ca-9d7d4d296251-1780441937.png" width="170"></a><br><sub><b>Paperwork</b></sub><br><sub>Easy · Linux</sub></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/Photobomb"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/9e4d90cf-fa3b-4e8b-978b-a2a707db9d5b.png" width="170"></a><br><sub><b>Photobomb</b></sub><br><sub>Easy · Linux</sub></td>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/Precious"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/9e4d90cf-d47b-4dd7-a54b-b967342a30f9.png" width="170"></a><br><sub><b>Precious</b></sub><br><sub>Easy · Linux</sub></td>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/Reactor"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/a1c58c3b-0931-413d-9394-5fae4350ec4c-1778698333.png" width="170"></a><br><sub><b>Reactor</b></sub><br><sub>Easy · Linux</sub></td>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/Shoppy"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/9e4d90d0-09aa-46ce-97ad-578b311f478c.png" width="170"></a><br><sub><b>Shoppy</b></sub><br><sub>Easy · Linux</sub></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/Silentium"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/a172cdb2-e7e8-41aa-9eda-c639fe85270f.png" width="170"></a><br><sub><b>Silentium</b></sub><br><sub>Easy · Linux</sub></td>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/Soccer"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/9e4d90cf-bf27-467a-9ce1-75957e61d148.png" width="170"></a><br><sub><b>Soccer</b></sub><br><sub>Easy · Linux</sub></td>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/Spectra"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/9e4d90d2-b67f-4118-9a52-1f1a9a9e0a3c.png" width="170"></a><br><sub><b>Spectra</b></sub><br><sub>Easy · Other</sub></td>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/Support"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/9e4d90d0-2dbc-482f-a376-ea70464174a2.png" width="170"></a><br><sub><b>Support</b></sub><br><sub>Easy · Windows</sub></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="25%"><a href="https://app.hackthebox.com/machines/TwoMillion"><img src="https://cdn.services-k8s.prod.aws.htb.systems/content/machines/avatar/9e4d90cd-c843-47e4-97f7-c0a2d69b78ce.png" width="170"></a><br><sub><b>TwoMillion</b></sub><br><sub>Easy · Linux</sub></td>
+</tr>
+</table>
 
 ### BugThrive Labs
 
