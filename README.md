@@ -72,16 +72,16 @@ Currently building toward freelance VAPT work and bug bounty, on top of hands-on
 
 <table>
 <tr>
-<td align="center" width="25%"><a href="https://labs.hackthebox.com/achievement/machine/367730/499"><img src="https://htb-mp-prod-public-storage.s3.eu-central-1.amazonaws.com/avatars/c45df8beebb6291da1c4cd8de04dd7a5.png" height="100"></a><br><sub><b>Ambassador</b></sub></td>
-<td align="center" width="25%"><a href="https://labs.hackthebox.com/achievement/machine/367730/267"><img src="https://htb-mp-prod-public-storage.s3.eu-central-1.amazonaws.com/avatars/792cdcf6434dad849ef37c4ab16bd68b.png" height="100"></a><br><sub><b>OpenKeyS</b></sub></td>
-<td align="center" width="25%"><a href="https://labs.hackthebox.com/achievement/machine/367730/900"><img src="https://htb-mp-prod-public-storage.s3.eu-central-1.amazonaws.com/avatars/56868ca419111fc0721393a2ffa0cefe.png" height="100"></a><br><sub><b>Reactor</b></sub></td>
 <td align="center" width="25%"><a href="https://academy.hackthebox.com/achievement/badge/a0957aca-c408-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/academician.png" height="100"></a><br><sub><b>Academician</b></sub></td>
-</tr>
-<tr>
 <td align="center" width="25%"><a href="https://academy.hackthebox.com/achievement/badge/ae2cb5ce-c408-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/your-request-is-my-demand.png" height="100"></a><br><sub><b>Your Request Is My Demand</b></sub></td>
 <td align="center" width="25%"><a href="https://academy.hackthebox.com/achievement/badge/33047f95-4a97-11f1-82d1-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/fuzzing-is-power.png" height="100"></a><br><sub><b>Fuzzing Is Power</b></sub></td>
 <td align="center" width="25%"><a href="https://academy.hackthebox.com/achievement/badge/b52a171c-c408-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/developer.png" height="100"></a><br><sub><b>Developer</b></sub></td>
+</tr>
+<tr>
 <td align="center" width="25%"><a href="https://academy.hackthebox.com/achievement/badge/d0080789-ed6b-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/4a11a1a1d810967184694662d629de2d/logo.png" height="100"></a><br><sub><b>Panoptic</b></sub></td>
+<td width="25%"></td>
+<td width="25%"></td>
+<td width="25%"></td>
 </tr>
 </table>
 
