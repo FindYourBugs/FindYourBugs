@@ -68,11 +68,16 @@ Active on Bugcrowd, testing public programs including `nasa.gov`.
 
 <table>
 <tr>
-<td align="center" width="20%"><a href="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/2026-06-13%2002_00_57-badge_render_fix%20-%20File%20Explorer.png"><img src="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/2026-06-13%2002_00_57-badge_render_fix%20-%20File%20Explorer.png" width="170"></a><br><sub><b>VAPT Client Satisfaction</b></sub></td>
-<td align="center" width="20%"><a href="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/g.png"><img src="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/g.png" width="170"></a><br><sub><b>VAPT Client Satisfaction</b></sub></td>
-<td align="center" width="20%"><a href="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/r.png"><img src="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/r.png" width="170"></a><br><sub><b>VAPT Client Satisfaction</b></sub></td>
-<td align="center" width="20%"><a href="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/Certificate_Shrikant%20Shinde.png"><img src="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/Certificate_Shrikant%20Shinde.png" width="170"></a><br><sub><b>Certificate of Appreciation</b></sub></td>
-<td align="center" width="20%"><a href="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/letter.png"><img src="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/letter.png" width="170"></a><br><sub><b>Appreciation Letter</b></sub></td>
+<td align="center" width="25%"><a href="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/2026-06-13%2002_00_57-badge_render_fix%20-%20File%20Explorer.png"><img src="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/2026-06-13%2002_00_57-badge_render_fix%20-%20File%20Explorer.png" width="170"></a><br><sub><b>VAPT Client Satisfaction</b></sub></td>
+<td align="center" width="25%"><a href="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/g.png"><img src="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/g.png" width="170"></a><br><sub><b>VAPT Client Satisfaction</b></sub></td>
+<td align="center" width="25%"><a href="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/r.png"><img src="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/r.png" width="170"></a><br><sub><b>VAPT Client Satisfaction</b></sub></td>
+<td align="center" width="25%"><a href="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/Certificate_Shrikant%20Shinde.png"><img src="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/Certificate_Shrikant%20Shinde.png" width="170"></a><br><sub><b>Certificate of Appreciation</b></sub></td>
+</tr>
+<tr>
+<td align="center" width="25%"><a href="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/letter.png"><img src="https://findyourbugs.github.io/shrikant-portfolio/customer-satisfaction/letter.png" width="170"></a><br><sub><b>Appreciation Letter</b></sub></td>
+<td align="center" width="25%"><a href="https://raw.githubusercontent.com/FindYourBugs/FindYourBugs/master/assets/customer-satisfaction-shyam-sales-hof.jpg"><img src="https://raw.githubusercontent.com/FindYourBugs/FindYourBugs/master/assets/customer-satisfaction-shyam-sales-hof.jpg" width="170"></a><br><sub><b>Shyam Sales — Hall of Fame</b></sub></td>
+<td width="25%"></td>
+<td width="25%"></td>
 </tr>
 </table>
 
