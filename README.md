@@ -40,6 +40,7 @@ Currently building toward freelance VAPT work and bug bounty, on top of hands-on
 ## Projects
 
 - **[VAPT.ai](https://github.com/FindYourBugs/VAPT.ai)** — local AI-assisted VAPT workspace: FastAPI backend, scope enforcement, Kali tool orchestration, controlled browser capture, local LLM-assisted analysis, and audit-logged reporting.
+- **[llm-gauntlet](https://github.com/FindYourBugs/llm-gauntlet)** — a linear, level-by-level LLM red-teaming game styled after Lakera Gandalf / Wiz Prompt Airlines: 10 sequential levels sweeping across the full OWASP Top 10 for LLM Applications (2026), each escalating the technique required. Fully local via Ollama, no API key needed.
 - **[AI-Pentesting-Playground](https://github.com/FindYourBugs/AI-Pentesting-Playground)** — practical test cases for the OWASP Top 10 for LLM applications.
 - **[sophos-wazuh-decoder](https://github.com/FindYourBugs/sophos-wazuh-decoder)** / **[sophos-wazuh-rule](https://github.com/FindYourBugs/sophos-wazuh-rule)** — custom Wazuh SIEM decoders and detection rules for Sophos firewall logs.
 
@@ -102,3 +103,4 @@ Currently building toward freelance VAPT work and bug bounty, on top of hands-on
 <div align="center">
 <sub>Open to freelance Web & Android VAPT engagements — reach out via <a href="https://linkedin.com/in/shrikant-shinde-194890202">LinkedIn</a> or <a href="mailto:shinde.shrikant1604@gmail.com">email</a>.</sub>
 </div>
+
