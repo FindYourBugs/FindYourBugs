@@ -68,23 +68,6 @@ Currently building toward freelance VAPT work and bug bounty, on top of hands-on
 
 ## Achievements — Badges
 
-### Hack The Box Academy
-
-<table>
-<tr>
-<td align="center" width="25%"><a href="https://academy.hackthebox.com/achievement/badge/a0957aca-c408-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/academician.png" height="100"></a><br><sub><b>Academician</b></sub></td>
-<td align="center" width="25%"><a href="https://academy.hackthebox.com/achievement/badge/ae2cb5ce-c408-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/your-request-is-my-demand.png" height="100"></a><br><sub><b>Your Request Is My Demand</b></sub></td>
-<td align="center" width="25%"><a href="https://academy.hackthebox.com/achievement/badge/33047f95-4a97-11f1-82d1-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/fuzzing-is-power.png" height="100"></a><br><sub><b>Fuzzing Is Power</b></sub></td>
-<td align="center" width="25%"><a href="https://academy.hackthebox.com/achievement/badge/b52a171c-c408-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/developer.png" height="100"></a><br><sub><b>Developer</b></sub></td>
-</tr>
-<tr>
-<td align="center" width="25%"><a href="https://academy.hackthebox.com/achievement/badge/d0080789-ed6b-11ed-acfc-bea50ffe6cb4"><img src="https://academy.hackthebox.com/storage/badges/4a11a1a1d810967184694662d629de2d/logo.png" height="100"></a><br><sub><b>Panoptic</b></sub></td>
-<td width="25%"></td>
-<td width="25%"></td>
-<td width="25%"></td>
-</tr>
-</table>
-
 **Live HTB profile stats** ([full profile](https://app.hackthebox.com/profile/367730)):
 
 <p align="center">
